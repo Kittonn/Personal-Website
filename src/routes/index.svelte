@@ -40,7 +40,7 @@
 				<a
 					target="_blank"
 					href="https://www.github.com/Kittonn"
-					class="flex  bg-[#e0fbfc] text-[#073b4c] dark:text-white my-2 w-[150px] justify-center dark:border-2 py-1 px-3 dark:border-[#e0fbfc] dark:bg-transparent rounded-lg items-center"
+					class="flex  bg-[#e0fbfc] text-[#073b4c] dark:text-white my-2 w-[150px] justify-center dark:border-2 py-1 px-3 dark:border-[#073b4c] dark:text-[#e0fbfc]  dark:bg-transparent rounded-lg items-center"
 				>
 					<LogoGithub size={32} />
 					<p class="ml-2 md:text-lg">Github</p>
@@ -48,7 +48,7 @@
 				<a
 					target="_blank"
 					href="https://www.instagram.com/kitton._"
-					class="flex  bg-[#e0fbfc] text-[#073b4c] dark:text-white my-2 w-[150px]  justify-center dark:border-2 py-1 px-3 dark:border-[#e0fbfc] dark:bg-transparent rounded-lg items-center"
+					class="flex  bg-[#e0fbfc] text-[#073b4c] dark:text-white my-2 w-[150px]  justify-center dark:border-2 py-1 px-3 dark:border-[#073b4c] dark:text-[#e0fbfc]  dark:bg-transparent rounded-lg items-center"
 				>
 					<LogoInstagram size={32} />
 					<p class="ml-2 md:text-lg">Instagram</p>
@@ -56,7 +56,7 @@
 				<a
 					target="_blank"
 					href="https://web.facebook.com/Thunder2004/"
-					class="flex bg-[#e0fbfc] text-[#073b4c] dark:text-white my-2 w-[150px] justify-center dark:border-2 py-1 px-3 dark:border-[#e0fbfc] dark:bg-transparent rounded-lg items-center"
+					class="flex bg-[#e0fbfc] text-[#073b4c] dark:text-white my-2 w-[150px] justify-center dark:border-2 py-1 px-3 dark:border-[#073b4c] dark:text-[#e0fbfc]  dark:bg-transparent rounded-lg items-center"
 				>
 					<LogoFacebook size={32} />
 					<p class="ml-2 md:text-lg">Facebook</p>
@@ -64,7 +64,7 @@
 				<a
 					target="_blank"
 					href="https://twitter.com/kittonofficial"
-					class="flex bg-[#e0fbfc] text-[#073b4c] dark:text-white my-2 w-[150px] justify-center dark:border-2 py-1 px-3 dark:border-[#e0fbfc] dark:bg-transparent rounded-lg items-center"
+					class="flex bg-[#e0fbfc] text-[#073b4c] dark:text-white my-2 w-[150px] justify-center dark:border-2 py-1 px-3 dark:border-[#073b4c]  dark:text-[#e0fbfc] dark:bg-transparent rounded-lg items-center"
 				>
 					<LogoTwitter size={32} />
 					<p class="ml-2 md:text-lg">Twitter</p>
