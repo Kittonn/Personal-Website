@@ -16,7 +16,7 @@
 
 {#if ready}
 	<div transition:fade={{ duration: 1000, easing: cubicInOut }}>
-		<div in:fly={{ y: 200, duration: 1000 }}>
+		<div in:fly={{ y: 100, duration: 1000 }}>
 			<img
 				class="w-[200px] h-[200px] md:w-[250px] md:h-[250px] mx-auto rounded-full"
 				src="picture.png"
