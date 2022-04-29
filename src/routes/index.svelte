@@ -41,7 +41,7 @@
 					class="flex  my-2 w-[150px] justify-center border-2 py-1 px-3  border-[#e0fbfc] rounded-lg items-center"
 				>
 					<LogoGithub size={32} />
-					<p class="ml-2 text-lg">Github</p>
+					<p class="ml-2 md:text-lg">Github</p>
 				</a>
 				<a
 					target="_blank"
@@ -49,7 +49,7 @@
 					class="flex  my-2 w-[150px]  justify-center border-2 py-1 px-3 border-[#e0fbfc] rounded-lg items-center"
 				>
 					<LogoInstagram size={32} />
-					<p class="ml-2 text-lg">Instagram</p>
+					<p class="ml-2 md:text-lg">Instagram</p>
 				</a>
 				<a
 					target="_blank"
@@ -57,7 +57,7 @@
 					class="flex my-2 w-[150px] justify-center border-2 py-1 px-3 border-[#e0fbfc] rounded-lg items-center"
 				>
 					<LogoFacebook size={32} />
-					<p class="ml-2 text-lg">Facebook</p>
+					<p class="ml-2 md:text-lg">Facebook</p>
 				</a>
 				<a
 					target="_blank"
@@ -65,7 +65,7 @@
 					class="flex my-2 w-[150px] justify-center border-2 py-1 px-3 border-[#e0fbfc] rounded-lg items-center"
 				>
 					<LogoTwitter size={32} />
-					<p class="ml-2 text-lg">Twitter</p>
+					<p class="ml-2 md:text-lg">Twitter</p>
 				</a>
 			</div>
 		</div>
