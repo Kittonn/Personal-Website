@@ -23,8 +23,10 @@
 				alt=""
 			/>
 			<div class="text-center">
-				<h1 class="text-xl md:text-3xl mt-3 text-[#073b4c] ">Kittipod Lambangchang</h1>
-				<p class="text-[15px]  md:text-xl mt-2  italic">
+				<h1 class="text-xl md:text-3xl mt-3 text-[#073b4c] dark:text-white">
+					Kittipod Lambangchang
+				</h1>
+				<p class="text-[15px]  md:text-xl mt-2 dark:text-[#e0fbfc]  italic">
 					A passionate computer engineering student.
 				</p>
 			</div>
@@ -38,7 +40,7 @@
 				<a
 					target="_blank"
 					href="https://www.github.com/Kittonn"
-					class="flex  bg-[#e0fbfc] text-[#073b4c]  my-2 w-[150px] justify-center dark:border-2 py-1 px-3    rounded-lg items-center"
+					class="flex  bg-[#e0fbfc] dark:bg-transparent dark:border-2 dark:text-white dark:border-[#073b4c] text-[#073b4c]  my-2 w-[150px] justify-center py-1 px-3    rounded-lg items-center"
 				>
 					<LogoGithub size={32} />
 					<p class="ml-2 md:text-lg">Github</p>
@@ -46,7 +48,7 @@
 				<a
 					target="_blank"
 					href="https://www.instagram.com/kitton._"
-					class="flex  bg-[#e0fbfc] text-[#073b4c]  my-2 w-[150px]  justify-center dark:border-2 py-1 px-3    rounded-lg items-center"
+					class="flex  bg-[#e0fbfc] dark:bg-transparent dark:border-2 dark:text-white dark:border-[#073b4c] text-[#073b4c]  my-2 w-[150px]  justify-center py-1 px-3    rounded-lg items-center"
 				>
 					<LogoInstagram size={32} />
 					<p class="ml-2 md:text-lg">Instagram</p>
@@ -54,7 +56,7 @@
 				<a
 					target="_blank"
 					href="https://web.facebook.com/Thunder2004/"
-					class="flex bg-[#e0fbfc] text-[#073b4c]  my-2 w-[150px] justify-center dark:border-2 py-1 px-3    rounded-lg items-center"
+					class="flex bg-[#e0fbfc] dark:bg-transparent dark:border-2 dark:text-white dark:border-[#073b4c] text-[#073b4c]  my-2 w-[150px] justify-center py-1 px-3    rounded-lg items-center"
 				>
 					<LogoFacebook size={32} />
 					<p class="ml-2 md:text-lg">Facebook</p>
@@ -62,7 +64,7 @@
 				<a
 					target="_blank"
 					href="https://twitter.com/kittonofficial"
-					class="flex bg-[#e0fbfc] text-[#073b4c]  my-2 w-[150px] justify-center dark:border-2 py-1 px-3   rounded-lg items-center"
+					class="flex bg-[#e0fbfc] dark:bg-transparent dark:border-2 dark:text-white dark:border-[#073b4c] text-[#073b4c]  my-2 w-[150px] justify-center py-1 px-3   rounded-lg items-center"
 				>
 					<LogoTwitter size={32} />
 					<p class="ml-2 md:text-lg">Twitter</p>
