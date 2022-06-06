@@ -6,11 +6,11 @@
   import Contact from "./lib/Components/Contact.svelte";
 import Footer from "./lib/Components/Footer.svelte";
   
-  let loading: boolean = false;
+  let loading: boolean = true;
   onMount(() => {
-    // setTimeout(() => {
-    //   loading = false
-    // }, 2000);
+    setTimeout(() => {
+      loading = false
+    }, 3000);
   });
 </script>
 

@@ -10,7 +10,7 @@
 </script>
 
 <section
-  class="flex-center text-[#1d3557] min-h-screen bg-[#f1faee] text-6xl"
+  class="flex-center text-[#edf2f4] min-h-screen bg-[#2b2d42] text-2xl md:text-6xl"
 >
   <h1 bind:this={text} class="text-center">กิตติพศ หลำบางช้าง</h1>
 </section>
